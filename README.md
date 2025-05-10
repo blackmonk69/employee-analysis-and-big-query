@@ -11,6 +11,8 @@ The link for the dashboard is https://lookerstudio.google.com/reporting/071599f3
 
 the link for my big query repo is https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1semployee-satisfaction-459217!2sData
 
+THIS IS AND ON-GOING PROJECT, IT IS STILL UNDER CONSTRUCTION.
+
 
 ![alt](/IMAGES/screenshot_bigquery.jpg) 
 
