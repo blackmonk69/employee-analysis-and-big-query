@@ -1,4 +1,4 @@
-# employee-analysis-and-big-query
+# Employee Analysis using Big Query and Looker Studio
 Analysis of employee demographics using GOOGLE BIG QUERY AND GOOGLE DATA STUDIO
 
 This project is about using Google Big Query to load 5 csv files and creating 2 tables based on these files. The first table TABLE 1 is the result of joining ...
